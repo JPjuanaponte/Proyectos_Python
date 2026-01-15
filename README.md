@@ -27,12 +27,12 @@ Este repositorio es una recopilación personal de proyectos desarrollados para *
 
 | Comparativa de Precisión | Reconocimiento en Cámara |
 | :---: | :---: |
-| ![Comparación](img/pruebas%faciales.PNG) | ![Detección Cámara](img/proyecto%identioficacin%facial.PNG) |
+| ![Comparación](img/pruebas%20faciales.PNG) | ![Detección Cámara](img/proyecto%20identioficacin%20facial.PNG) |
 | *Análisis de similitud y distancia facial* | *Identificación en vivo sobre la webcam* |
 
 | Registro Automatizado (CSV) |
 | :---: |
-| ![Registro CSV](img/registro%asistencia.PNG) |
+| ![Registro CSV](img/registro%20asistencia.PNG) |
 | *Log de ingresos con marca de tiempo* |
 
 ---
