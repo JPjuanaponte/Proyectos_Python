@@ -16,11 +16,28 @@ Este repositorio es una recopilación personal de proyectos desarrollados para *
 
 ## 📅 Registro de Avance Diario
 
-| Fecha | Proyecto / Tema | Descripción rápida |
-| :--- | :--- | :--- |
-| 13/01/26 | **DIA 14 - BIOMETRIA FACIAL & CONTROL DE ASISTENCIA** | Desarrollo de un sistema de reconocimiento biométrico en tiempo real utilizando Computer Vision. El programa realiza una conversión de espacio de color (BGR a RGB), extrae face encodings  y calcula la distancia para determinar coincidencias con una base de datos local. Incluye un módulo de registro automatizado en formato .csv con marca de tiempo (datetime). |
-| ... | ... | *Próximamente más proyectos...* |
 
+### 🔹 DÍA 14: Biometría Facial & Control de Asistencia
+**Descripción:** Desarrollo de un sistema de reconocimiento biométrico en tiempo real utilizando Computer Vision. El programa realiza una conversión de espacio de color (BGR a RGB), extrae *face encodings* y calcula la distancia para determinar coincidencias con una base de datos local. Incluye un módulo de registro automatizado en formato `.csv` con marca de tiempo (`datetime`).
+
+> *[Aquí puedes agregar una captura del terminal o del funcionamiento si la tienes]*
+
+---
+
+### 🔹 DÍA 15: Gestor de Tareas Profesional (Django)
+**Descripción:** ¡Salto al desarrollo web! En este proyecto exploré la creación de entornos virtuales desde cero y la estructura de un proyecto Django. Trabajamos en el control de URLs, la creación de "esqueletos" HTML reutilizables y el uso de etiquetas de texto dinámicas. 
+
+Lo más destacado fue la implementación de **lógica de negocio real**: vistas de cuentas de usuario, sistemas de logueo seguros, restricciones de acceso (para que cada usuario solo vea sus tareas) y el estudio profundo de elementos de interfaz.
+
+#### 📸 Galería del Proyecto (Día 15)
+
+| Vista Principal de App | Pantalla de Logueo |
+| :---: | :---: |
+| ![App Principal](img/app%20principal%20tareas.PNG) | ![Logueo](img/logueo%20proyecto.PNG) |
+
+| Buscador de Tareas | Agregar Nueva Tarea |
+| :---: | :---: |
+| ![Buscador](img/buscador.PNG) | ![Nueva Tarea](img/nueva%20tarea.PNG) |
 ---
 
 ## 🎓 Créditos y Formación
