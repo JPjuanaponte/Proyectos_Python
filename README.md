@@ -17,10 +17,23 @@ Este repositorio es una recopilación personal de proyectos desarrollados para *
 ## 📅 Registro de Avance Diario
 
 
-### 🔹 DÍA 14: Biometría Facial & Control de Asistencia
-**Descripción:** Desarrollo de un sistema de reconocimiento biométrico en tiempo real utilizando Computer Vision. El programa realiza una conversión de espacio de color (BGR a RGB), extrae *face encodings* y calcula la distancia para determinar coincidencias con una base de datos local. Incluye un módulo de registro automatizado en formato `.csv` con marca de tiempo (`datetime`).
+### 🔹 DÍA 14: Biometría Facial & Control de Asistencia Profesional
+**Descripción:** En esta jornada exploré el potencial de la Inteligencia Artificial aplicada a la seguridad y control de personal. Desarrollé dos sistemas complementarios utilizando librerías de vanguardia como `face_recognition` y `OpenCV`:
 
-> *[Aquí puedes agregar una captura del terminal o del funcionamiento si la tienes]*
+1.  **Módulo de Identificación de Precisión:** Un programa diseñado para comparar rostros con un alto nivel de exactitud. El sistema procesa imágenes, las convierte al espacio de color RGB y extrae "encodings" (firmas matemáticas únicas de cada cara). Mediante el cálculo de la distancia y niveles de tolerancia ajustables, el script determina si dos fotos pertenecen a la misma persona con un margen de error mínimo.
+2.  **Sistema de Control de Asistencia Real-Time:** Construí una herramienta que utiliza la webcam para identificar empleados en una base de datos local. Al detectar una coincidencia positiva, el sistema no solo etiqueta el rostro en el video en tiempo real, sino que genera automáticamente un registro en un archivo `.csv` con el nombre y la hora exacta de conexión (`datetime`), ideal para entornos laborales reales.
+
+#### 📸 Galería del Proyecto (Día 14)
+
+| Comparativa de Precisión | Reconocimiento en Cámara |
+| :---: | :---: |
+| ![Comparación](img/pruebas%faciales.PNG) | ![Detección Cámara](img/proyecto%identioficacin%facial.PNG) |
+| *Análisis de similitud y distancia facial* | *Identificación en vivo sobre la webcam* |
+
+| Registro Automatizado (CSV) |
+| :---: |
+| ![Registro CSV](img/registro%asistencia.PNG) |
+| *Log de ingresos con marca de tiempo* |
 
 ---
 
