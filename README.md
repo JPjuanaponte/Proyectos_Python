@@ -16,6 +16,48 @@ Este repositorio es una recopilación personal de proyectos desarrollados para *
 
 ## 📅 Registro de Avance Diario
 
+### 🔹 DÍAS 01 y 02: Fundamentos de Interacción y Lógica Comercial
+**Descripción:** En estas primeras jornadas me enfoqué en la base de la programación en Python: la entrada y salida de datos, y la manipulación de tipos numéricos. Desarrollé dos herramientas que simulan aplicaciones del mundo real:
+
+1. **Branding Express (Cervecería):** Un ejercicio de concatenación de strings y saltos de línea (`\n`) para generar nombres de marca creativos mediante inputs dinámicos.
+2. **Calculadora de Comisiones v2.0:** Implementación de lógica matemática para el sector ventas. El programa calcula un 13% de comisión sobre el total vendido, utilizando `round()` para precisión financiera y f-strings para reportes limpios.
+
+---
+
+### 🔹 DÍA 03: Analizador de Textos Inteligente
+**Descripción:** Este proyecto marca el dominio de las estructuras de datos y métodos de strings. El objetivo fue crear un software que "entienda" y descomponga un texto proporcionado por el usuario.
+
+**Tecnologías aplicadas:**
+* **Métodos de String:** Uso de `.lower()`, `.count()` y `.split()`.
+* **Manejo de Listas:** Reversión de elementos con `.reverse()` y unión con `.join()`.
+* **Indexación:** Extracción de caracteres específicos mediante posiciones de índice.
+* **Búsqueda de Patrones:** Lógica booleana para detectar palabras clave (Python).
+
+#### 📸 Galería del Proyecto (Día 03)
+
+| Análisis de Texto en Proceso |
+| :---: |
+| ![Analizador de Texto](img/analizador_texto1.PNG) |
+| *Procesamiento de métricas y modo espejo activado* |
+
+
+
+### 🔹 DÍA 04: Lógica de Juego y Control de Flujo
+**Descripción:** Desarrollo de un videojuego de consola basado en el concepto de "Adivina el Número". Aquí integré la toma de decisiones compleja y el manejo de ciclos infinitos controlados.
+
+
+**Desafíos Técnicos superados:**
+1. **Librería Random:** Implementación de `randint` para aleatoriedad.
+2. **Ciclos While:** Gestión de un sistema de 8 intentos (vidas) del jugador.
+3. **Validación Lógica:** Creación de respuestas dinámicas ("Más alto" / "Más bajo") mediante operadores de comparación.
+
+#### 📸 Galería del Proyecto (Día 04)
+
+| Interfaz del Desafío Mental |
+| :---: |
+| ![Adivina el Número](img/adivina_numero.PNG) |
+| *Feedback en tiempo real y gestión de intentos* |
+
 
 ### 🔹 DÍA 14: Biometría Facial & Control de Asistencia Profesional
 **Descripción:** En esta jornada exploré el potencial de la Inteligencia Artificial aplicada a la seguridad y control de personal. Desarrollé dos sistemas complementarios utilizando librerías de vanguardia como `face_recognition` y `OpenCV`:
