@@ -58,6 +58,20 @@ Este repositorio es una recopilación personal de proyectos desarrollados para *
 | ![Adivina el Número](img/adivina_numero.PNG) |
 | *Feedback en tiempo real y gestión de intentos* |
 
+### 🔹 DÍA 05: El Juego del Ahorcado (Modularización y Funciones)
+**Descripción:** Este proyecto fue un paso clave en mi forma de pensar como programador. Pasé de escribir código lineal a estructurarlo mediante **funciones**, lo que me permitió crear un sistema mucho más limpio y fácil de mantener. Diseñé una versión interactiva del "Ahorcado" donde la lógica se divide en tareas pequeñas que trabajan juntas.
+
+**Lo que aprendí y apliqué:**
+* **Modularidad:** Creación de funciones específicas para elegir palabras, validar letras y actualizar el tablero.
+* **Paso de Parámetros:** Entendí cómo enviar información entre funciones y el uso estratégico de los `return`.
+
+#### 📸 Galería del Proyecto (Día 05)
+
+| Interfaz del Juego del Ahorcado |
+| :---: |
+| ![Ahorcado en Consola](img/juego_ahorcado.PNG) |
+| *Tablero dinámico y gestión de vidas con feedback visual* |
+
 
 ### 🔹 DÍA 14: Biometría Facial & Control de Asistencia Profesional
 **Descripción:** En esta jornada exploré el potencial de la Inteligencia Artificial aplicada a la seguridad y control de personal. Desarrollé dos sistemas complementarios utilizando librerías de vanguardia como `face_recognition` y `OpenCV`:
