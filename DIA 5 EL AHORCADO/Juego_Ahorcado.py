@@ -1,7 +1,7 @@
 from random import choice
 
 # Configuración inicial
-palabras = ['panadero', 'dinosaurio', 'helipuerto', 'tiburon', 'tecnologia', 'colombia']
+palabras = ['perro', 'dinosaurio', 'helipuerto', 'tiburon', 'computador', 'colombia']
 letras_correctas = []
 letras_incorrectas = []
 intentos = 6
